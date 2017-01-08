@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: MovieRushTicketSystem
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: san
+Implementation-Vendor-Id: com.hgj.rush
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/movie.rush.t
+ icket.system/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
